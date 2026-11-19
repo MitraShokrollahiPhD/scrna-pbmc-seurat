@@ -1,0 +1,82 @@
+"Annotated","TopSignature","Freq"
+"Naive CD4 T","B",15
+"CD14+ Mono","B",0
+"Memory CD4 T","B",4
+"B","B",341
+"CD8 T","B",1
+"FCGR3A+ Mono","B",0
+"NK","B",0
+"DC","B",0
+"Platelet","B",0
+"Naive CD4 T","CD14_Mono",7
+"CD14+ Mono","CD14_Mono",459
+"Memory CD4 T","CD14_Mono",0
+"B","CD14_Mono",0
+"CD8 T","CD14_Mono",0
+"FCGR3A+ Mono","CD14_Mono",8
+"NK","CD14_Mono",0
+"DC","CD14_Mono",0
+"Platelet","CD14_Mono",0
+"Naive CD4 T","CD8_T",80
+"CD14+ Mono","CD8_T",0
+"Memory CD4 T","CD8_T",45
+"B","CD8_T",1
+"CD8 T","CD8_T",177
+"FCGR3A+ Mono","CD8_T",0
+"NK","CD8_T",0
+"DC","CD8_T",0
+"Platelet","CD8_T",0
+"Naive CD4 T","DC",5
+"CD14+ Mono","DC",12
+"Memory CD4 T","DC",2
+"B","DC",2
+"CD8 T","DC",0
+"FCGR3A+ Mono","DC",7
+"NK","DC",0
+"DC","DC",32
+"Platelet","DC",0
+"Naive CD4 T","FCGR3A_Mono",0
+"CD14+ Mono","FCGR3A_Mono",8
+"Memory CD4 T","FCGR3A_Mono",0
+"B","FCGR3A_Mono",0
+"CD8 T","FCGR3A_Mono",0
+"FCGR3A+ Mono","FCGR3A_Mono",147
+"NK","FCGR3A_Mono",0
+"DC","FCGR3A_Mono",0
+"Platelet","FCGR3A_Mono",0
+"Naive CD4 T","Memory_CD4_T",178
+"CD14+ Mono","Memory_CD4_T",0
+"Memory CD4 T","Memory_CD4_T",312
+"B","Memory_CD4_T",0
+"CD8 T","Memory_CD4_T",32
+"FCGR3A+ Mono","Memory_CD4_T",0
+"NK","Memory_CD4_T",0
+"DC","Memory_CD4_T",0
+"Platelet","Memory_CD4_T",0
+"Naive CD4 T","Naive_CD4_T",320
+"CD14+ Mono","Naive_CD4_T",0
+"Memory CD4 T","Naive_CD4_T",78
+"B","Naive_CD4_T",0
+"CD8 T","Naive_CD4_T",1
+"FCGR3A+ Mono","Naive_CD4_T",0
+"NK","Naive_CD4_T",0
+"DC","Naive_CD4_T",0
+"Platelet","Naive_CD4_T",0
+"Naive CD4 T","NK",9
+"CD14+ Mono","NK",0
+"Memory CD4 T","NK",3
+"B","NK",0
+"CD8 T","NK",79
+"FCGR3A+ Mono","NK",0
+"NK","NK",155
+"DC","NK",0
+"Platelet","NK",0
+"Naive CD4 T","Platelet",70
+"CD14+ Mono","Platelet",2
+"Memory CD4 T","Platelet",32
+"B","Platelet",0
+"CD8 T","Platelet",1
+"FCGR3A+ Mono","Platelet",0
+"NK","Platelet",0
+"DC","Platelet",0
+"Platelet","Platelet",13
