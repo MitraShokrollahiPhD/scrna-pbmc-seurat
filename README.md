@@ -4,7 +4,7 @@
 Can the immune cell types in a standard public PBMC dataset be recovered by unsupervised clustering, annotated from marker genes, and checked against independent marker signatures?
 
 ## Data
-10x Genomics PBMC 3k (peripheral blood mononuclear cells from a healthy donor, 2,700 cells). This is a widely used tutorial dataset, so this project is a skills demonstration and not a new finding.
+10x Genomics PBMC 3k (peripheral blood mononuclear cells from a healthy donor, 2,700 cells). This is a widely used tutorial dataset, so this project is not a new finding.
 
 ## Methods
 - QC with Seurat: kept cells with 200-2,500 detected genes and under 5% mitochondrial reads (2,700 to 2,638 cells).
